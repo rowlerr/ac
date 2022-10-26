@@ -1,0 +1,28 @@
+body {
+    background-color: #FFE6F7;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    color: #937DC2;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.rowler-img {
+    margin-top: 70px;
+}
+
+a {
+    text-decoration: none;
+    color: #937DC2;
+}
+
+a:hover {
+    color: white;
+}
+
+.decor {
+    height: 50px;
+    background-color: #937DC2;
+}
